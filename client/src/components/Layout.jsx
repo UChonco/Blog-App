@@ -10,6 +10,8 @@ const Layout = (children) => {
     <>
     <Header/>
         <Outlet/>
+        
+ 
     <Footer/>
 
 

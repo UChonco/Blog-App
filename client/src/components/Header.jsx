@@ -14,7 +14,7 @@ const Header = () => {
       <li><Link to="/profile">Ernest Achieve</Link></li>
       <li><Link to="/create">Create Post</Link></li>
       <li><Link to="/authors">Author</Link></li>
-      <li><Link to="/logout"></Link></li>
+      <li><Link to="/logout">Logout</Link></li>
      </ul>
      <button className="nav__toggle-btn" >
      <AiOutlineClose/>
